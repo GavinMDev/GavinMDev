@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Hi, my name is Gavin! I am currently employed as a QA Tester but am working towards a role as a Web Developer. 
+        Hi, my name is Gavin! I am currently employed as a QA Tester but am working towards a role as a Software Developer. 
       </h1>
     </summary>
   </ul>
